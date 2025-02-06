@@ -1,6 +1,6 @@
 
-numbers = list(map(int,input().split()))
-
+numbers = list(map(int,input().split())
+               
 unique_numbers=sorted(set(numbers))
 length=len(unique_numbers)
 
